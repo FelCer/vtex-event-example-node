@@ -10,6 +10,8 @@
 
 Change language from README to [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/FelCer/vtex-event-example-node/blob/main/docs/README.md)
 
+## Catalog Broadcast 
+
 VTEX IO app designed to listen to and send events.
 
 This event will query all the product information with the product id.
